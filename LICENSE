@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2025 Adithya N Murthy
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Project: CitiZen AI - Smart City Complaint Management Platform
+Created by: Adithya N Murthy
+Year: 2025
+
+This license applies to all components of the CitiZen AI platform including:
+
+- Source code and documentation
+- Machine learning models and training data
+- Database schemas and configurations
+- User interface designs and assets
+- Installation and deployment scripts
+
+For municipal and educational use, this software is provided free of charge.
+Commercial use and modifications are permitted under the terms above.
+
+Contact: For questions about licensing or commercial use, please reach out
+through the project repository or official channels.
